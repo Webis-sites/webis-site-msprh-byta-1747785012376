@@ -1,10 +1,10 @@
 {
-  "timestamp": "2025-05-20T23:52:24.740Z",
+  "timestamp": "2025-05-20T23:52:59.277Z",
   "status": {
     "totalComponents": 11,
-    "completedComponents": 2,
+    "completedComponents": 3,
     "failedComponents": 0,
-    "progress": 18
+    "progress": 27
   },
   "components": [
     {
@@ -22,7 +22,7 @@
     {
       "name": "HeroSection",
       "type": "hero",
-      "status": "pending",
+      "status": "completed",
       "description": "Bold, attention-grabbing hero section showcasing the salon's premium services"
     },
     {
