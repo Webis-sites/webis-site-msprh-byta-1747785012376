@@ -11,6 +11,8 @@
       --secondary-color: #ebebeb;
     
   --font-heebo: var(--font-heebo);
+
+  --font-size-base: 1rem;
 }
 
     html {
