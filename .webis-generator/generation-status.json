@@ -1,8 +1,11 @@
 {
-  "projectName": "מספרה-ביתא-5012",
-  "businessName": "מספרה ביתא",
-  "created": "2025-05-20T23:50:13.210Z",
-  "status": "initialized",
-  "progress": 0,
-  "components": []
+  "timestamp": "2025-05-20T23:50:35.101Z",
+  "status": {
+    "totalComponents": 0,
+    "completedComponents": 0,
+    "failedComponents": 0,
+    "progress": 0
+  },
+  "components": [],
+  "repoName": "webis-site-msprh-byta-1747785012376"
 }
