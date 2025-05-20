@@ -4,6 +4,7 @@ import React from 'react';
 import HeroSection from '@/components/HeroSection';
 import ServicesSection from '@/components/ServicesSection';
 import GallerySection from '@/components/GallerySection';
+import BookingSection from '@/components/BookingSection';
 
 export default function HomePage() {
   return (
@@ -14,6 +15,7 @@ export default function HomePage() {
         <HeroSection />
         <ServicesSection />
         <GallerySection />
+        <BookingSection />
       </main>
     </>
   );
