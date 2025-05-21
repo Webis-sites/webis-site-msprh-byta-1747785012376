@@ -8,6 +8,7 @@ import BookingSection from '@/components/BookingSection';
 import TestimonialsSection from '@/components/TestimonialsSection';
 import FAQSection from '@/components/FAQSection';
 import AboutSection from '@/components/AboutSection';
+import ContactSection from '@/components/ContactSection';
 
 export default function HomePage() {
   return (
@@ -22,6 +23,7 @@ export default function HomePage() {
         <TestimonialsSection />
         <FAQSection />
         <AboutSection />
+        <ContactSection />
       </main>
     </>
   );
