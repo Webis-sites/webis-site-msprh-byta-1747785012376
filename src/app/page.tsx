@@ -9,6 +9,7 @@ import TestimonialsSection from '@/components/TestimonialsSection';
 import FAQSection from '@/components/FAQSection';
 import AboutSection from '@/components/AboutSection';
 import ContactSection from '@/components/ContactSection';
+import Footer from '@/components/Footer';
 
 export default function HomePage() {
   return (
@@ -24,6 +25,7 @@ export default function HomePage() {
         <FAQSection />
         <AboutSection />
         <ContactSection />
+        <Footer />
       </main>
     </>
   );
